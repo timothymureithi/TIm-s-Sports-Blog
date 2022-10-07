@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "54d1053c2510cd785765",
-    "url": "/Tim-s-Sports-Blog/static/css/main.42266eb2.chunk.css"
+    "revision": "2368346a0eb3b5a4ef07",
+    "url": "/Tim-s-Sports-Blog/static/css/main.5c45a485.chunk.css"
   },
   {
-    "revision": "54d1053c2510cd785765",
-    "url": "/Tim-s-Sports-Blog/static/js/main.54d1053c.chunk.js"
+    "revision": "2368346a0eb3b5a4ef07",
+    "url": "/Tim-s-Sports-Blog/static/js/main.2368346a.chunk.js"
   },
   {
     "revision": "2b447e1be3e7dd9deafc",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Tim-s-Sports-Blog/static/js/runtime~main.48d5a726.js"
   },
   {
-    "revision": "7191f28dfdedd7262cbf9b48ba510cfc",
+    "revision": "2854b8f3d52e31a60a31a2613d168418",
     "url": "/Tim-s-Sports-Blog/index.html"
   }
 ];

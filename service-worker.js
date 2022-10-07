@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Tim-s-Sports-Blog/precache-manifest.18098e28bc74e9f6d064b41f87c1672d.js"
+  "/Tim-s-Sports-Blog/precache-manifest.f70f04ca53293ca948915d63f9aaa705.js"
 );
 
 workbox.clientsClaim();
